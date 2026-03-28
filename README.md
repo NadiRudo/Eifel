@@ -48,7 +48,7 @@ Dieses Verfahren kann theoretisch beliebig erweitert werden, indem weitere Zwisc
 Das Ziel des Projekts bestand darin, mithilfe von Geodaten zu analysieren, wie groß die potenziell erreichbare Fläche für Löschwasser in einem Waldgebiet der Eifel (siehe Abb. 3) ist.
 
 <figure>
-    <img src=(Karten/Übersichtskarte.png) width="300"><br>
+    <img src="Karten/Übersichtskarte.png" width="300"><br>
     <figcaption>Abbildung 3: Standort Nationalpark Eifel (Quelle: Eigene Darstellung)
   </figcaption>
   </figure>
