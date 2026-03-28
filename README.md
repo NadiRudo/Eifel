@@ -1,4 +1,4 @@
-# Löschwasserversorgung bei Waldbränden – Eine GIS-gestützte Analyse der Erreichbarkeit von Wasserentnahmestellen in der Eifel
+# Löschwasserversorgung bei Waldbränden – Eine GIS-gestützte Analyse der Löschwasserabeckung in der Eifel
 
 ## Einleitung
 
