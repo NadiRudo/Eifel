@@ -81,7 +81,7 @@ Die Analyse zeigt deutlich, dass die Löschwasserversorgung in großen Waldgebie
 
 <p align="center">
   <img src="Karten/Löschabdeckung.png" width="700"><br>
-  <em>Abbildung 4: Abbildung 5: Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)</em>
+  <em>Abbildung 5: Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)</em>
 </p>
 
 Im untersuchten Gebiet ergeben sich folgende Ergebnisse:
@@ -122,8 +122,8 @@ Angesichts zunehmender Trockenperioden und steigender Temperaturen wird die Bede
 - Abbildung 1: Freiwillige Feuerwehr Pastetten (o.J.). Tragkraftspritze URL: https://www.feuerwehr-pastetten.de/tragkraftspritze/
 - Abbildung 2: Freiwillige Feuerwehr Frischen im Allgäu (o.J.). Aufbewahrung der Feuerwehrschläuche URL: https://feuerwehrfischen.com/478-2/ueber-uns/unser-geratehaus/
 - Abbildung 3: Rudolph, N. u. Schmitz, A. (2026). Standort Nationalpark Eifel (Quelle: Eigene Darstellung)
-- Abbildung 3: Rudolph, N. u. Schmitz, A. (2026). Erreichbarkeiten nach Wasserdruck bei 10 bar Ausgangsdruck nach den Wasserentnahmestellen und der zweiten Pumpe
-- Abbildung 4: Rudolph, N. u. Schmitz, A. (2026). Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe 
+- Abbildung 4: Rudolph, N. u. Schmitz, A. (2026). Erreichbarkeiten nach Wasserdruck bei 10 bar Ausgangsdruck nach den Wasserentnahmestellen und der zweiten Pumpe
+- Abbildung 5: Rudolph, N. u. Schmitz, A. (2026). Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe 
 
 
 
