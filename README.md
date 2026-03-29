@@ -35,17 +35,15 @@ Im Gegensatz zu urbanen Räumen verfügen Waldgebiete in der Regel über keine d
 
 Stattdessen müssen Feuerwehren häufig auf eine unabhängige Löschwasserversorgung zurückgreifen. Dazu zählen insbesondere Bäche, Flüsse, Seen und Teiche (Hoch, 2019). Diese offenen Gewässer dienen als Wasserentnahmestellen. Von dort aus wird Wasser mithilfe mobiler Pumpen, wie der Tragkraftspritze (siehe Abb. 1), über Schläuche (siehe Abb. 2) zur Brandstelle transportiert. Die Tragkraftspritze hat ein Gewicht von ca. 200 kg und kann daher nur von 4 Personen getragen werden. Auch die Uniform der Feuerwehr hat ein Gewicht, weshalb die Bewegungen und die Überwindung von Distanzen stark eingeschränlt sind.
 
-<div align="center">
-  <figure>
-    <img src="https://www.feuerwehr-pastetten.de/wp-content/uploads/2012/12/ts8.jpg" width="300"><br>
-    <figcaption>Abbildung 1: Tragkraftspritze (Quelle: Freiwillige Feuerwehr Pastetten)</figcaption>
-  </figure>
+<p align="center">
+  <img src="https://www.feuerwehr-pastetten.de/wp-content/uploads/2012/12/ts8.jpg" width="300"><br>
+  <sub>Abbildung 1: Tragkraftspritze (Quelle: Freiwillige Feuerwehr Pastetten)</sub>
+</p>
 
-  <figure>
-    <img src="https://feuerwehrfischen.com/wp-content/uploads/2019/12/schlauch3.jpg?w=2048" width="300"><br>
-    <figcaption>Abbildung 2: Aufbewährung der Feuerwehrschläuche (Quelle: Freiwillige Feuerwehr Fischen im Allgäu)</figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="https://feuerwehrfischen.com/wp-content/uploads/2019/12/schlauch3.jpg?w=2048" width="300"><br>
+  <sub>Abbildung 2: Aufbewahrung der Feuerwehrschläuche (Quelle: Freiwillige Feuerwehr Fischen im Allgäu)</sub>
+</p>
 
 In der Praxis bringt dieses Vorgehen mehrere Herausforderungen mit sich. Zum einen müssen geeignete Wasserentnahmestellen zunächst erreichbar sein. Feuerwehrkräfte müssen ihre Ausrüstung häufig über Waldwege transportieren und können sich nur begrenzt durch unwegsames Gelände bewegen. Zudem müssen Pumpen auf ausreichend stabilem Untergrund aufgebaut werden, damit sie zuverlässig arbeiten. Ein weiteres Problem ist der Druckverlust beim Transport von Wasser über längere Distanzen. In Feuerwehrschläuchen sinkt der Wasserdruck kontinuierlich mit zunehmender Entfernung. Wird eine bestimmte Distanz überschritten, reicht der Druck nicht mehr aus, um das Wasser effektiv zur Brandbekämpfung einzusetzen. In solchen Fällen müssen zusätzliche Pumpen eingesetzt werden.
 
