@@ -86,8 +86,10 @@ Anschließend wurde untersucht, wie weit das Wasser von diesen Punkten aus trans
 
 Nach dieser ersten Analyse wurde ein zweites Szenario betrachtet, bei dem eine zusätzliche Zwischenpumpe eingesetzt wird. Dadurch kann Wasser über eine größere Entfernung weitergeleitet werden, bevor der Druck erneut zu stark abfällt. Hier wurde eine weitere Restriktion berücksichtigt. Die Feuerwehr kann eine Neigung über 40° nicht überwinden und daher auch nicht die Schläuche oder die zweiten Pumpe bei dieser starken Neigung installieren. Darüber hinaus ist der Druckverlust durch die Höhenmeter zu groß. Daher wurde ein zweites Kostenraster erstellt. Es beinhaltet dieselbe Berechnung wie das erste Kostenraster und enthält außerdem die Restriktion, dass alle m² ausgeschlossen werden, die eine stärkere Neigung als 40° aufweisen, da diese Flächen nicht erreichbar und für die Löschaktion nutzbar sind. Für den Standort der zweiten Pumpe wurde der Rand der Fläche, die mit der ersten Pumpe erreicht werden kann, genutzt (siehe Abb. 3). 
 
-![Wasserdruck nach den Wasserentnahmestellen und der zweiten Pumpe](Karten/Nahansicht%20der%20FLächenabdeckung%20und%20Pumpstandorte.png)
-Abbildung 4: Erreichbarkeiten nach Wasserdruck bei 10 bar Ausgangsdruck nach den Wasserentnahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)
+<p align="center">
+  <img src="Karten/Nahansicht%20der%20FLächenabdeckung%20und%20Pumpstandorte.png" width="700"><br>
+  <em>Abbildung 4: Erreichbarkeiten nach Wasserdruck bei 10 bar Ausgangsdruck nach den Wasserentnahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)</em>
+</p>
 
 Es ist zu erwähnen, dass die Methodik eine Limitation beinhaltet. Von den identifizierten Wasserentnahmestellen wurden die Erreichbarkeitsanalyse begonnen, jedoch wurde die Richtung nicht angegeben, sodass auch auf der anderen Seite des Gewässers, eine Fläche als „abgedeckt“ angezeigt wird. Diese Vorgehensweise ist in der Praxis nicht immer anwendbar, da tiefere und größere Gewässer nicht gekreuzt werden können und somit die Fläche am anderen Ufer nicht erreichbar ist. Dies muss bei der Betrachtung der nachfolgenden Ergebnisse beachtet werden. 
 
