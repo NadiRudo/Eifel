@@ -97,8 +97,10 @@ Es ist zu erwähnen, dass die Methodik eine Limitation beinhaltet. Von den ident
 
 Die Analyse zeigt deutlich, dass die Löschwasserversorgung in großen Waldgebieten stark eingeschränkt sein kann (siehe Abb. 4).
 
-![Erreichbare Fläche nach den Wasserentnahmestellen und der zweiten Pumpe](Karten/Löschabdeckung.png)
-Abbildung 5: Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)
+<p align="center">
+  <img src="Karten/Löschabdeckung.png" width="700"><br>
+  <em>Abbildung 5: Erreichbare Fläche nach den Wasserenahmestellen und der zweiten Pumpe (Quelle: Eigene Darstellung)</em>
+</p>
 
 Im untersuchten Gebiet ergeben sich folgende Ergebnisse:
 - Mit dem Einsatz von zwei Pumpen (einer Wasserentnahme und einer Zwischenpumpe) kann eine Fläche von etwa 3,58 km² erreicht werden.
